@@ -1,0 +1,9 @@
+
+This is a package with a script to reduce data from the Large Binocular
+Camera on the Large Binocular Telescope (LBC on LBT).
+It uses IRAF, IDL, and scamp and swarp written by E. Bertin.
+
+For instructions and minimal documentation see Readme.lbc_howto.
+
+Benjamin Weiner
+bjw@as.arizona.edu
